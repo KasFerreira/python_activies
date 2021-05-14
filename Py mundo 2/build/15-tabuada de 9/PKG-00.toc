@@ -1,0 +1,52 @@
+('C:\\Users\\Star lord\\Documents\\Py mundo 2\\build\\15-tabuada de '
+ '9\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Star lord\\Documents\\Py mundo 2\\build\\15-tabuada de '
+   '9\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'c:\\users\\star '
+   'lord\\appdata\\local\\programs\\python\\python38-32\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\star '
+   'lord\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\star '
+   'lord\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\star '
+   'lord\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\star '
+   'lord\\appdata\\local\\programs\\python\\python38-32\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\Star '
+   'lord\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\Star '
+   'lord\\AppData\\Local\\Programs\\Python\\Python38-32\\Lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('15-tabuada de 9',
+   'C:\\Users\\Star lord\\Documents\\Py mundo 2\\15-tabuada de 9.py',
+   'PYSOURCE'),
+  ('15-tabuada de 9.exe.manifest',
+   'C:\\Users\\Star lord\\Documents\\Py mundo 2\\build\\15-tabuada de '
+   '9\\15-tabuada de 9.exe.manifest',
+   'BINARY')],
+ True,
+ False,
+ False,
+ [])
